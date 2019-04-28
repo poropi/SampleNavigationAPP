@@ -1,1 +1,9 @@
-"# SampleNavigationAPP" 
+# NavigationEditerを利用した実装例
+AndroidStudioのNavigationEditerを利用した実装例を上げてみました。
+この例が正しいかは何とも言えませんが、思った以上に簡単にできましたので、
+アプリ作成初心者の方の敷居が低くなったのでは？とも思います。
+
+個人的には、今まで1画面をActivityで作成していたところ、
+本件でのActivityはアプリに１つだけ存在すればよく、
+基本的に1画面をFragmentで管理するって感じになってます。
+（iOSに近い感じになっているのかな？？？）
